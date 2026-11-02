@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/jigscarl">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=474&text=Newton%20Eboko" alt="Newton Eboko" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=794&text=Hello%20I%60m%20Newton%20Eboko" alt="Hello I`m Newton Eboko" />
   </a>
 </p>
 
